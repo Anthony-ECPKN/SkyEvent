@@ -9,7 +9,7 @@ Project page is https://anthony-ecpkn.github.io/nerfies.github.io/
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 > **[ICLR 2026 Accepted]** This is the official repository for the paper:  
-> **"SkyEvents: A Large-Scale Event-enhanced UAV Dataset for Robust 3D Scene Reconstruction"** > *Wenzong Ma$^\dagger$, Zhuoxiao Li$^\dagger$, Jinjing Zhu$^\dagger$, Tongyan Hua$^\dagger$, Kanghao Chen$^\dagger$, Zidong Cao, Da Yang, Peilun Shi, Yibo Zhou, Wufan Zhao$^*$, Hui Xiong$^*$*
+> **"SkyEvents: A Large-Scale Event-enhanced UAV Dataset for Robust 3D Scene Reconstruction"** 
 
 [🌍 Project Page](https://anthony-ecpkn.github.io/nerfies.github.io/) | [📝 Paper (Coming Soon)]() | [📊 Dataset (Coming Soon)]()
 
