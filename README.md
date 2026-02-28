@@ -1,7 +1,3 @@
-# SkyEvent
-This is a code and dataset base for event camera in large-scale 3D reconstruction.
-Project page is https://anthony-ecpkn.github.io/nerfies.github.io/
-
 # 🚁 SkyEvents: A Large-Scale Event-enhanced UAV Dataset for Robust 3D Scene Reconstruction
 
 [![ICLR 2026](https://img.shields.io/badge/ICLR-2026-blue.svg)](https://iclr.cc/)
