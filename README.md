@@ -18,7 +18,6 @@ To bridge this gap, we introduce **SkyEvents**, a pioneering large-scale event-e
 ### Key Features:
 * **Multi-modal Data:** Incorporates synchronized RGB video, Event streams, and LiDAR point clouds.
 * **Large Scale & Diversity:** Spans over 8 hours of video (45 sequences) covering 1.41 km², captured across diverse illumination conditions (daytime, dusk), scenarios, and flight altitudes (70-100m).
-* **Accurate Geometry:** Provides dense depth derived from centimeter-accurate RTK LiDAR and drift-free global 6-DoF poses.
 * **Supporting Modules:** We provide the **GTA** (Geometry-constrained Timestamp Alignment) module for precise RGB-Event synchronization, and the **RER** (Region-wise Event Rendering) loss to guide and enhance 3D Gaussian Splatting rendering optimization.
 
 ## 🚀 TODO List / Roadmap
