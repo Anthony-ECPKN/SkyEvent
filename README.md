@@ -7,7 +7,7 @@
 > **[ICLR 2026 Accepted]** This is the official repository for the paper:  
 > **"SkyEvents: A Large-Scale Event-enhanced UAV Dataset for Robust 3D Scene Reconstruction"** 
 
-[🌍 Project Page](https://anthony-ecpkn.github.io/nerfies.github.io/) | [📝 Paper (Coming Soon)]() | [📊 Dataset (Coming Soon)]()
+[🌍 Project Page](https://anthony-ecpkn.github.io/SkyEvent.github.io/) | [📝 Paper (Coming Soon)]() | [📊 Dataset (Coming Soon)]()
 
 ## 📖 Introduction
 
